@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+    <Say voice="alice">Hey Hey Hey!!</Say>
+    <Pause length="1" />
+    <Say voice="alice">Let's get busy!</Say>
+</Response>
